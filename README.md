@@ -1,2 +1,7 @@
-# Learning_projects
-This repository is only for my learning projects.
+			MY_PROJECTS
+proyektlar
+	-login_sayt_mysql
+
+hozircha shular
+
+Happy coding... ☕️
