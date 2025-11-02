@@ -1,0 +1,7 @@
+# .gitignore
+*.exe
+*.dll
+*.obj
+*.log
+*.tmp
+*.env
